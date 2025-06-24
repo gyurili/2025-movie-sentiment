@@ -12,7 +12,8 @@
 ## 🔍 주요 기능
 
 ### ➊ ➕ 영화 추가  
-![image](https://github.com/user-attachments/assets/59fec9d2-af78-483d-8391-8c011c23d71c)
+<img src="https://github.com/user-attachments/assets/59fec9d2-af78-483d-8391-8c011c23d71c" style="width:70%;"/>
+
 - 영화 제목, 개봉일, 감독, 장르, 포스터 이미지 URL을 입력하여 **새로운 영화를 등록**한다.
 - 등록된 영화는 **📋 등록된 영화 목록**으로 넘어가 확인할 수 있다.
 
@@ -21,16 +22,26 @@
 ### ➋ 📋 등록된 영화 목록
 
 1) **영화 목록 조회**
-![image](https://github.com/user-attachments/assets/122f57b1-46b1-47dc-9f8b-3e8d233d60f9)
+
+<img src="https://github.com/user-attachments/assets/122f57b1-46b1-47dc-9f8b-3e8d233d60f9" style="width:70%;"/>
+
 - 📋 등록된 영화 목록에서 영화를 선택하면 상세 정보를 조회할 수 있다.
 
+<br>
+
 2) **영화 상세 정보 조회**
-![image](https://github.com/user-attachments/assets/d43be887-455c-49ef-ac4f-61a0edc5b5eb)
+
+<img src="https://github.com/user-attachments/assets/d43be887-455c-49ef-ac4f-61a0edc5b5eb" style="width:70%;"/>
+
 - 선택한 영화의 제목, 개봉일, 감독, 장르, 포스터 이미지를 확인할 수 있다.
 - **❌ 버튼**을 누르면 해당 영화가 **데이터베이스에서 삭제**된다.
 
+<br>
+
 3) **리뷰 작성 및 감정 분석**
-![image](https://github.com/user-attachments/assets/72ba7703-48a1-45be-9f2e-371b230d1725)
+
+<img src="https://github.com/user-attachments/assets/72ba7703-48a1-45be-9f2e-371b230d1725" style="width:70%;"/>
+
 - 리뷰를 등록하면 BERT가 **감정 분석**을 수행하고, **📢 최근 리뷰**로 넘어간다.
 - 각 리뷰는 **🗑️ 버튼**으로 **삭제**할 수 있다.
 - 전체 리뷰의 **평균 감성 점수**가 계산되며, 1~5점에 따라 **표정 이모지**가 표시된다.
