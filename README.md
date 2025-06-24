@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/82cf0095-37c1-491c-bee1-e6b99e5cbe54)# 🎬 영화 리뷰 감정 분석
+# 🎬 영화 리뷰 감정 분석
 
 
 <br>
